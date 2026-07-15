@@ -18,5 +18,6 @@ An ENTIRE BOARD will be archived under these conditions:
 
 A Mark # will be archived under these conditions
 - The mark # folder is more than 2 years old. One example that fails this is CAM-MK2. But an example that satisfies this is CAM-MK1.
+- Another example that satisfies this is MIDAS MK-1. Even though we are actively working on it, it is considered stale as it is more than 2 years old. 
 
 All revision folders that come with a Mark # are archived with it. 
