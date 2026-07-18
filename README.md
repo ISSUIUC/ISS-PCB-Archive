@@ -17,7 +17,7 @@ An ENTIRE BOARD (all MARKS and REV underneath it) will be archived under these c
 - The project is more than 1-2 years old AND is inactive. A board that fails to satisfy both these conditions are the feather duo boards: It is more than 2 years old, BUT is currently being still used by our systems.
 - **An outlier of this case** is when a BOARD **has multiple MARK #'s**, is still actively being used, but not longer actively being developed. *In this case, we archive all but the most recent Mark #*
 
-A Mark # will be archived under these conditions
+For a board still under dev: its Mark # will be archived under these conditions
 - The mark # folder is more than 2 years old. One example that fails this is CAM-MK2. But an example that satisfies this is CAM-MK1.
 - Another example that satisfies this is MIDAS MK-1. Even though we are actively working on it, it is considered stale as it is more than 2 years old. 
 
