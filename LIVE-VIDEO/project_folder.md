@@ -1,0 +1,1 @@
+This folder contains stale E-hardware boards from the live video system project
